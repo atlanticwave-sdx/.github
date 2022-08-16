@@ -7,6 +7,9 @@ The below summarizes the processes that we try to follow.  At the
 moment, they mostly list our aspirations.  We are working towards
 making them a reality.
 
+(Note that this document is a work in progress, and will change based
+on feedback.)
+
 ## Reporting Issues
 
 Please check the existing issues, open and closed, before reporting an
