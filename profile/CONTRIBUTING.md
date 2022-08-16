@@ -1,8 +1,11 @@
 # Contributing to an AtlanticWave-SDX Project
 
-We would love to have you join the community! 
+Thank you for taking the time and effort to contribute to
+AtlanticWave-SDX.  We would love to have you join the community.
 
-Below summarizes the processes that we follow.
+The below summarizes the processes that we follow.  At the moment,
+they mostly list our aspirations.  We are working towards making them
+a reality.
 
 ## Reporting Issues
 
