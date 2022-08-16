@@ -27,3 +27,11 @@ before starting your contributions.
 
 ## Some Useful Resources
 
+A collection of
+[papers](https://www.atlanticwave-sdx.net/?page_id=267) and
+[presentations](https://www.atlanticwave-sdx.net/?page_id=309) about
+AtlanticWave-SDX, and some
+[resources](https://www.atlanticwave-sdx.net/?page_id=369) related to
+SDX are listed in our website.
+
+
