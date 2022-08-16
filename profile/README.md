@@ -1,10 +1,10 @@
 ## Welcome to AtlanticWave SDX!
 
 <a href="Containers"><p align="center">
-<img src="../images/AtlanticWave.png"/>
+<img src="/images/AtlanticWave.png"/>
 </p></a>
 
-![AtlanticWave-SDX logo](../images/AtlanticWave.png)
+![AtlanticWave-SDX logo](/images/AtlanticWave.png)
 
 [AtlanticWave-SDX](https://www.atlanticwave-sdx.net/) is a distributed
 experimental Software Defined Exchange, supporting research,
