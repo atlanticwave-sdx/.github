@@ -35,3 +35,14 @@ AtlanticWave-SDX, and some
 SDX are listed in our website.
 
 
+<!--
+
+## Contacting Us
+
+TODO: List project contacts and/or communication channels.
+
+## Security
+
+TODO: How to report any security issues?
+
+-->
