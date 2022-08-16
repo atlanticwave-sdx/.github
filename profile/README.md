@@ -25,7 +25,8 @@ is on these repositories:
 
 We welcome and encourage contributions, including issues, discussions,
 and pull requests.  Please be sure to read our [Contributing
-Guidelines](CONTRIBUTING.md) before starting your contributions.
+Guidelines](/profile/CONTRIBUTING.md) before starting your
+contributions.
 
 ## Some Useful Resources
 
