@@ -18,6 +18,8 @@ is on these repositories:
  * sdx-lc-client
  * datamodel
  * pce
+ * kytos-sdx-topology
+ * sdx-continuous-development 
 
 ## Contribution Guidelines
 
