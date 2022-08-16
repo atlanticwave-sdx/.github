@@ -12,14 +12,14 @@ national and international scales.
 AtlanticWave-SDX is composed of several components. The current focus
 is on these repositories:
 
- * sdx-controller
- * sdx-controller-client
- * sdx-lc 
- * sdx-lc-client
- * datamodel
- * pce
- * kytos-sdx-topology
- * sdx-continuous-development 
+ * [sdx-controller](https://github.com/atlanticwave-sdx/sdx-controller)
+ * [sdx-controller-client](https://github.com/atlanticwave-sdx/sdx-controller-client)
+ * [sdx-lc](https://github.com/atlanticwave-sdx/sdx-lc)
+ * [sdx-lc-client](https://github.com/atlanticwave-sdx/sdx-lc-client)
+ * [datamodel](https://github.com/atlanticwave-sdx/datamodel)
+ * [pce](https://github.com/atlanticwave-sdx/pce)
+ * [kytos-sdx-topology](https://github.com/atlanticwave-sdx/kytos-sdx-topology)
+ * [sdx-continuous-development](https://github.com/atlanticwave-sdx/sdx-continuous-development)
 
 ## Contribution Guidelines
 
