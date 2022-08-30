@@ -6,4 +6,4 @@ page at:
 
 https://github.com/atlanticwave-sdx
 
-Note that the actual file displayed there is [./profile/README.md].
+Note that the actual file displayed there is <./profile/README.md>.
