@@ -11,14 +11,14 @@ and interoperability testing, on national and international scales.
 AtlanticWave-SDX is composed of several components. The current focus
 is on these repositories:
 
- * [sdx-controller][sdx-controller]
- * [sdx-controller-client][sdx-controller-client]
- * [sdx-lc][sdx-lc]
- * [sdx-lc-client][sdx-lc-client]
- * [datamodel][datamodel]
- * [pce][pce]
- * [kytos-sdx-topology][kytos-sdx-topology]
- * [sdx-continuous-development][sdx-continuous-development]
+| [sdx-controller][controller]                 |
+| [sdx-controller-client][controller-client]   |
+| [sdx-lc][lc]                                 |
+| [sdx-lc-client][lc-client]                   |
+| [datamodel][datamodel]                       |
+| [pce][pce]                                   |
+| [kytos-sdx-topology][topology]               |
+| [sdx-continuous-development][cd]             |
 
 ## Contribution Guidelines
 
@@ -40,14 +40,14 @@ about AtlanticWave-SDX, are listed in our website, along with some
 [presentations]: https://www.atlanticwave-sdx.net/?page_id=309
 [resources]: https://www.atlanticwave-sdx.net/?page_id=369
 
-[sdx-controller]: https://github.com/atlanticwave-sdx/sdx-controller
-[sdx-controller-client]: https://github.com/atlanticwave-sdx/sdx-controller-client
-[sdx-lc]: https://github.com/atlanticwave-sdx/sdx-lc
-[sdx-lc-client]: https://github.com/atlanticwave-sdx/sdx-lc-client
+[controller]: https://github.com/atlanticwave-sdx/sdx-controller
+[controller-client]: https://github.com/atlanticwave-sdx/sdx-controller-client
+[lc]: https://github.com/atlanticwave-sdx/sdx-lc
+[lc-client]: https://github.com/atlanticwave-sdx/sdx-lc-client
 [datamodel]: https://github.com/atlanticwave-sdx/datamodel
 [pce]: https://github.com/atlanticwave-sdx/pce
-[kytos-sdx-topology]: https://github.com/atlanticwave-sdx/kytos-sdx-topology
-[sdx-continuous-development]: https://github.com/atlanticwave-sdx/sdx-continuous-development
+[topology]: https://github.com/atlanticwave-sdx/kytos-sdx-topology
+[cd]: https://github.com/atlanticwave-sdx/sdx-continuous-development
 
 <!--
 
