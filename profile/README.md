@@ -31,7 +31,7 @@ contributions.
 
 A collection of [papers][papers] and [presentations][presentations]
 about AtlanticWave-SDX, are listed in our website, along with some
-[resources][resources] related to SDX.
+[resources][resources] related to Software Defined Exchanges.
 
 <!-- References -->
 
