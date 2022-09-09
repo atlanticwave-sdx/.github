@@ -46,25 +46,19 @@ about AtlanticWave-SDX, are listed in our website, along with some
 [controller-ci-badge]: https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml/badge.svg
 [controller-ci]: https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml
 
-<!-- [![Test](https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml/badge.svg)](https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml) -->
-
 [controller-client]: https://github.com/atlanticwave-sdx/sdx-controller-client
 
 [lc]: https://github.com/atlanticwave-sdx/sdx-lc
 [lc-ci-badge]: https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml/badge.svg
 [lc-ci]: https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml
-<!-- [![Test](https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml/badge.svg)](https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml) -->
 [lc-cov-badge]: https://coveralls.io/repos/github/atlanticwave-sdx/sdx-lc/badge.svg
 [lc-cov]: https://coveralls.io/github/atlanticwave-sdx/sdx-lc?branch=main
-<!-- [![Coverage Status](https://coveralls.io/repos/github/atlanticwave-sdx/sdx-lc/badge.svg?branch=main)](https://coveralls.io/github/atlanticwave-sdx/sdx-lc?branch=main) -->
-
 
 [lc-client]: https://github.com/atlanticwave-sdx/sdx-lc-client
 
 [datamodel]: https://github.com/atlanticwave-sdx/datamodel
 [datamodel-ci-badge]: https://github.com/atlanticwave-sdx/datamodel/actions/workflows/test.yml/badge.svg
 [datamodel-ci]: https://github.com/atlanticwave-sdx/datamodel/actions/workflows/test.yml
-<!-- [![Test](https://github.com/atlanticwave-sdx/datamodel/actions/workflows/test.yml/badge.svg)](https://github.com/atlanticwave-sdx/datamodel/actions/workflows/test.yml) -->
 
 [pce]: https://github.com/atlanticwave-sdx/pce
 [topology]: https://github.com/atlanticwave-sdx/kytos-sdx-topology
