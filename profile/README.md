@@ -11,16 +11,16 @@ and interoperability testing, on national and international scales.
 AtlanticWave-SDX is composed of several components. The current focus
 is on these repositories:
 
-| Repository                                 | CI status        | Test coverage           |
-|--------------------------------------------|------------------|-------------------------|
-| [sdx-controller][controller]               | ![controller-ci] |                         |
-| [sdx-controller-client][controller-client] |                  |                         |
-| [sdx-lc][lc]                               | ![lc-ci]         | [![lc-cov]][lc-cov-url] |
-| [sdx-lc-client][lc-client]                 |                  |                         |
-| [datamodel][datamodel]                     | ![datamodel-ci]  |                         |
-| [pce][pce]                                 |                  |                         |
-| [kytos-sdx-topology][topology]             |                  |                         |
-| [sdx-continuous-development][cd]           |                  |                         |
+| Repository                                 | CI status                               | Test coverage             |
+|--------------------------------------------|-----------------------------------------|---------------------------|
+| [sdx-controller][controller]               | [![controller-ci-badge]][controller-ci] |                           |
+| [sdx-controller-client][controller-client] |                                         |                           |
+| [sdx-lc][lc]                               | [![lc-ci-badge]][lc-ci]                 | [![lc-cov-badge]][lc-cov] |
+| [sdx-lc-client][lc-client]                 |                                         |                           |
+| [datamodel][datamodel]                     | [![datamodel-ci-badge]][datamodel-ci]   |                           |
+| [pce][pce]                                 |                                         |                           |
+| [kytos-sdx-topology][topology]             |                                         |                           |
+| [sdx-continuous-development][cd]           |                                         |                           |
 
 ## Contribution Guidelines
 
@@ -43,25 +43,27 @@ about AtlanticWave-SDX, are listed in our website, along with some
 [resources]: https://www.atlanticwave-sdx.net/?page_id=369
 
 [controller]: https://github.com/atlanticwave-sdx/sdx-controller
-[controller-ci]: https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml/badge.svg
+[controller-ci-badge]: https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml/badge.svg
+[controller-ci]: https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml
 
 <!-- [![Test](https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml/badge.svg)](https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml) -->
 
 [controller-client]: https://github.com/atlanticwave-sdx/sdx-controller-client
 
 [lc]: https://github.com/atlanticwave-sdx/sdx-lc
-[lc-ci]: https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml/badge.svg
+[lc-ci-badge]: https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml/badge.svg
+[lc-ci]: https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml
 <!-- [![Test](https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml/badge.svg)](https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml) -->
-[lc-cov]: https://coveralls.io/repos/github/atlanticwave-sdx/sdx-lc/badge.svg
-[lc-cov-url]: https://coveralls.io/github/atlanticwave-sdx/sdx-lc?branch=main
+[lc-cov-badge]: https://coveralls.io/repos/github/atlanticwave-sdx/sdx-lc/badge.svg
+[lc-cov]: https://coveralls.io/github/atlanticwave-sdx/sdx-lc?branch=main
 <!-- [![Coverage Status](https://coveralls.io/repos/github/atlanticwave-sdx/sdx-lc/badge.svg?branch=main)](https://coveralls.io/github/atlanticwave-sdx/sdx-lc?branch=main) -->
 
 
 [lc-client]: https://github.com/atlanticwave-sdx/sdx-lc-client
 
 [datamodel]: https://github.com/atlanticwave-sdx/datamodel
-[datamodel-ci]: https://github.com/atlanticwave-sdx/datamodel/actions/workflows/test.yml/badge.svg
-
+[datamodel-ci-badge]: https://github.com/atlanticwave-sdx/datamodel/actions/workflows/test.yml/badge.svg
+[datamodel-ci]: https://github.com/atlanticwave-sdx/datamodel/actions/workflows/test.yml
 <!-- [![Test](https://github.com/atlanticwave-sdx/datamodel/actions/workflows/test.yml/badge.svg)](https://github.com/atlanticwave-sdx/datamodel/actions/workflows/test.yml) -->
 
 [pce]: https://github.com/atlanticwave-sdx/pce
