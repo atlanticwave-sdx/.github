@@ -15,7 +15,7 @@ is on these repositories:
 |--------------------------------------------|------------------|---------------|
 | [sdx-controller][controller]               | ![controller-ci] |               |
 | [sdx-controller-client][controller-client] |                  |               |
-| [sdx-lc][lc]                               | ![lc-ci]         |               |
+| [sdx-lc][lc]                               | ![lc-ci]         | ![lc-cov]     |
 | [sdx-lc-client][lc-client]                 |                  |               |
 | [datamodel][datamodel]                     | ![datamodel-ci]  |               |
 | [pce][pce]                                 |                  |               |
@@ -52,6 +52,10 @@ about AtlanticWave-SDX, are listed in our website, along with some
 [lc]: https://github.com/atlanticwave-sdx/sdx-lc
 [lc-ci]: https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml/badge.svg
 <!-- [![Test](https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml/badge.svg)](https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml) -->
+[lc-cov]: https://coveralls.io/repos/github/atlanticwave-sdx/sdx-lc/badge.svg
+<!-- [![Coverage Status](https://coveralls.io/repos/github/atlanticwave-sdx/sdx-lc/badge.svg?branch=main)](https://coveralls.io/github/atlanticwave-sdx/sdx-lc?branch=main) -->
+
+
 
 [lc-client]: https://github.com/atlanticwave-sdx/sdx-lc-client
 
