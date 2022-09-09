@@ -42,27 +42,38 @@ about AtlanticWave-SDX, are listed in our website, along with some
 [presentations]: https://www.atlanticwave-sdx.net/?page_id=309
 [resources]: https://www.atlanticwave-sdx.net/?page_id=369
 
+<!-- sdx-controller URLs -->
 [controller]: https://github.com/atlanticwave-sdx/sdx-controller
 [controller-ci-badge]: https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml/badge.svg
 [controller-ci]: https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml
 
+<!-- sdx-controller-client URLs -->
 [controller-client]: https://github.com/atlanticwave-sdx/sdx-controller-client
 
+<!-- sdx-lc URLs -->
 [lc]: https://github.com/atlanticwave-sdx/sdx-lc
 [lc-ci-badge]: https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml/badge.svg
 [lc-ci]: https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml
 [lc-cov-badge]: https://coveralls.io/repos/github/atlanticwave-sdx/sdx-lc/badge.svg
 [lc-cov]: https://coveralls.io/github/atlanticwave-sdx/sdx-lc?branch=main
 
+<!-- sdx-lc-client URLs -->
 [lc-client]: https://github.com/atlanticwave-sdx/sdx-lc-client
 
+<!-- datamodel URLs -->
 [datamodel]: https://github.com/atlanticwave-sdx/datamodel
 [datamodel-ci-badge]: https://github.com/atlanticwave-sdx/datamodel/actions/workflows/test.yml/badge.svg
 [datamodel-ci]: https://github.com/atlanticwave-sdx/datamodel/actions/workflows/test.yml
 
+<!-- pce URLs -->
 [pce]: https://github.com/atlanticwave-sdx/pce
+
+<!-- kytos-sdx-topology URs -->
 [topology]: https://github.com/atlanticwave-sdx/kytos-sdx-topology
+
+<!-- sdx-continuous-development URLs -->
 [cd]: https://github.com/atlanticwave-sdx/sdx-continuous-development
+
 
 <!--
 
