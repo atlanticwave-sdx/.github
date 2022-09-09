@@ -18,7 +18,7 @@ is on these repositories:
 | [sdx-lc][lc]                               | [![lc-ci-badge]][lc-ci]                 | [![lc-cov-badge]][lc-cov] |
 | [sdx-lc-client][lc-client]                 |                                         |                           |
 | [datamodel][datamodel]                     | [![datamodel-ci-badge]][datamodel-ci]   |                           |
-| [pce][pce]                                 |                                         |                           |
+| [pce][pce]                                 | [![pce-ci-badge]][pce-ci]               |                           |
 | [kytos-sdx-topology][topology]             |                                         |                           |
 | [sdx-continuous-development][cd]           |                                         |                           |
 
@@ -67,6 +67,8 @@ about AtlanticWave-SDX, are listed in our website, along with some
 
 <!-- pce URLs -->
 [pce]: https://github.com/atlanticwave-sdx/pce
+[pce-ci-badge]: https://github.com/atlanticwave-sdx/pce/actions/workflows/test.yml/badge.svg
+[pce-ci]: https://github.com/atlanticwave-sdx/pce/actions/workflows/test.yml
 
 <!-- kytos-sdx-topology URs -->
 [topology]: https://github.com/atlanticwave-sdx/kytos-sdx-topology
