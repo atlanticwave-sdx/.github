@@ -11,16 +11,16 @@ and interoperability testing, on national and international scales.
 AtlanticWave-SDX is composed of several components. The current focus
 is on these repositories:
 
-| Repository                                 | CI status       |
-|--------------------------------------------|-----------------|
-| [sdx-controller][controller]               | [controller-ci] |
-| [sdx-controller-client][controller-client] |                 |
-| [sdx-lc][lc]                               |                 |
-| [sdx-lc-client][lc-client]                 |                 |
-| [datamodel][datamodel]                     |                 |
-| [pce][pce]                                 |                 |
-| [kytos-sdx-topology][topology]             |                 |
-| [sdx-continuous-development][cd]           |                 |
+| Repository                                 | CI status        |
+|--------------------------------------------|------------------|
+| [sdx-controller][controller]               | ![controller-ci] |
+| [sdx-controller-client][controller-client] |                  |
+| [sdx-lc][lc]                               |                  |
+| [sdx-lc-client][lc-client]                 |                  |
+| [datamodel][datamodel]                     |                  |
+| [pce][pce]                                 |                  |
+| [kytos-sdx-topology][topology]             |                  |
+| [sdx-continuous-development][cd]           |                  |
 
 ## Contribution Guidelines
 
