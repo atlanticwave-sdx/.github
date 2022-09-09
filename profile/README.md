@@ -11,16 +11,16 @@ and interoperability testing, on national and international scales.
 AtlanticWave-SDX is composed of several components. The current focus
 is on these repositories:
 
-| Repository                                   |
-|----------------------------------------------|
-| [sdx-controller][controller]                 |
-| [sdx-controller-client][controller-client]   |
-| [sdx-lc][lc]                                 |
-| [sdx-lc-client][lc-client]                   |
-| [datamodel][datamodel]                       |
-| [pce][pce]                                   |
-| [kytos-sdx-topology][topology]               |
-| [sdx-continuous-development][cd]             |
+| Repository                                 | CI status       |
+|--------------------------------------------|-----------------|
+| [sdx-controller][controller]               | [controller-ci] |
+| [sdx-controller-client][controller-client] |                 |
+| [sdx-lc][lc]                               |                 |
+| [sdx-lc-client][lc-client]                 |                 |
+| [datamodel][datamodel]                     |                 |
+| [pce][pce]                                 |                 |
+| [kytos-sdx-topology][topology]             |                 |
+| [sdx-continuous-development][cd]           |                 |
 
 ## Contribution Guidelines
 
@@ -43,6 +43,10 @@ about AtlanticWave-SDX, are listed in our website, along with some
 [resources]: https://www.atlanticwave-sdx.net/?page_id=369
 
 [controller]: https://github.com/atlanticwave-sdx/sdx-controller
+[controller-ci]: https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml/badge.svg
+
+<!-- [![Test](https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml/badge.svg)](https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml) -->
+
 [controller-client]: https://github.com/atlanticwave-sdx/sdx-controller-client
 [lc]: https://github.com/atlanticwave-sdx/sdx-lc
 [lc-client]: https://github.com/atlanticwave-sdx/sdx-lc-client
