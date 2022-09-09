@@ -15,7 +15,7 @@ is on these repositories:
 |--------------------------------------------|------------------|---------------|
 | [sdx-controller][controller]               | ![controller-ci] |               |
 | [sdx-controller-client][controller-client] |                  |               |
-| [sdx-lc][lc]                               |                  |               |
+| [sdx-lc][lc]                               | ![lc-ci]         |               |
 | [sdx-lc-client][lc-client]                 |                  |               |
 | [datamodel][datamodel]                     |                  |               |
 | [pce][pce]                                 |                  |               |
@@ -48,7 +48,11 @@ about AtlanticWave-SDX, are listed in our website, along with some
 <!-- [![Test](https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml/badge.svg)](https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml) -->
 
 [controller-client]: https://github.com/atlanticwave-sdx/sdx-controller-client
+
 [lc]: https://github.com/atlanticwave-sdx/sdx-lc
+[lc-ci]: https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml/badge.svg
+<!-- [![Test](https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml/badge.svg)](https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml) -->
+
 [lc-client]: https://github.com/atlanticwave-sdx/sdx-lc-client
 [datamodel]: https://github.com/atlanticwave-sdx/datamodel
 [pce]: https://github.com/atlanticwave-sdx/pce
