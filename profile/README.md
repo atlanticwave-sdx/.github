@@ -29,17 +29,16 @@ contributions.
 
 ## Some Useful Resources
 
-A collection of [papers][aw-sdx-papers] and
-[presentations][aw-sdx-presentations] about AtlanticWave-SDX, and some
-[resources][aw-sdx-presentations] related to SDX are listed in our
-website.
+A collection of [papers][papers] and [presentations][presentations]
+about AtlanticWave-SDX, are listed in our website, along with some
+[resources][resources] related to SDX.
 
 <!-- References -->
 
 [aw-sdx]: https://www.atlanticwave-sdx.net/ (AtlanticWave-SDX Website)
-[aw-sdx-papers]: https://www.atlanticwave-sdx.net/?page_id=267
-[aw-sdx-presentations]: https://www.atlanticwave-sdx.net/?page_id=309
-[aw-sdx-resources]: https://www.atlanticwave-sdx.net/?page_id=369
+[papers]: https://www.atlanticwave-sdx.net/?page_id=267
+[presentations]: https://www.atlanticwave-sdx.net/?page_id=309
+[resources]: https://www.atlanticwave-sdx.net/?page_id=369
 
 [sdx-controller]: https://github.com/atlanticwave-sdx/sdx-controller
 [sdx-controller-client]: https://github.com/atlanticwave-sdx/sdx-controller-client
