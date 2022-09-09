@@ -11,6 +11,8 @@ and interoperability testing, on national and international scales.
 AtlanticWave-SDX is composed of several components. The current focus
 is on these repositories:
 
+| Repository                                   |
+|----------------------------------------------|
 | [sdx-controller][controller]                 |
 | [sdx-controller-client][controller-client]   |
 | [sdx-lc][lc]                                 |
