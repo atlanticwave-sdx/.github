@@ -17,7 +17,7 @@ is on these repositories:
 | [sdx-controller-client][controller-client] |                  |               |
 | [sdx-lc][lc]                               | ![lc-ci]         |               |
 | [sdx-lc-client][lc-client]                 |                  |               |
-| [datamodel][datamodel]                     |                  |               |
+| [datamodel][datamodel]                     | ![datamodel-ci]  |               |
 | [pce][pce]                                 |                  |               |
 | [kytos-sdx-topology][topology]             |                  |               |
 | [sdx-continuous-development][cd]           |                  |               |
@@ -54,7 +54,12 @@ about AtlanticWave-SDX, are listed in our website, along with some
 <!-- [![Test](https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml/badge.svg)](https://github.com/atlanticwave-sdx/sdx-lc/actions/workflows/test.yml) -->
 
 [lc-client]: https://github.com/atlanticwave-sdx/sdx-lc-client
+
 [datamodel]: https://github.com/atlanticwave-sdx/datamodel
+[datamodel-ci]: https://github.com/atlanticwave-sdx/datamodel/actions/workflows/test.yml/badge.svg
+
+<!-- [![Test](https://github.com/atlanticwave-sdx/datamodel/actions/workflows/test.yml/badge.svg)](https://github.com/atlanticwave-sdx/datamodel/actions/workflows/test.yml) -->
+
 [pce]: https://github.com/atlanticwave-sdx/pce
 [topology]: https://github.com/atlanticwave-sdx/kytos-sdx-topology
 [cd]: https://github.com/atlanticwave-sdx/sdx-continuous-development
