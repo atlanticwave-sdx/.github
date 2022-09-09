@@ -11,16 +11,16 @@ and interoperability testing, on national and international scales.
 AtlanticWave-SDX is composed of several components. The current focus
 is on these repositories:
 
-| Repository                                 | CI status        | Test coverage         |
-|--------------------------------------------|------------------|-----------------------|
-| [sdx-controller][controller]               | ![controller-ci] |                       |
-| [sdx-controller-client][controller-client] |                  |                       |
-| [sdx-lc][lc]                               | ![lc-ci]         | ![lc-cov][lc-cov-url] |
-| [sdx-lc-client][lc-client]                 |                  |                       |
-| [datamodel][datamodel]                     | ![datamodel-ci]  |                       |
-| [pce][pce]                                 |                  |                       |
-| [kytos-sdx-topology][topology]             |                  |                       |
-| [sdx-continuous-development][cd]           |                  |                       |
+| Repository                                 | CI status        | Test coverage           |
+|--------------------------------------------|------------------|-------------------------|
+| [sdx-controller][controller]               | ![controller-ci] |                         |
+| [sdx-controller-client][controller-client] |                  |                         |
+| [sdx-lc][lc]                               | ![lc-ci]         | [![lc-cov]][lc-cov-url] |
+| [sdx-lc-client][lc-client]                 |                  |                         |
+| [datamodel][datamodel]                     | ![datamodel-ci]  |                         |
+| [pce][pce]                                 |                  |                         |
+| [kytos-sdx-topology][topology]             |                  |                         |
+| [sdx-continuous-development][cd]           |                  |                         |
 
 ## Contribution Guidelines
 
