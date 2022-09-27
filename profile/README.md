@@ -16,7 +16,7 @@ is on these repositories:
 | [sdx-controller][controller]               | [![controller-ci-badge]][controller-ci]            |                           |
 | [sdx-controller-client][controller-client] | [![controller-client-badge]][controller-client-ci] |                           |
 | [sdx-lc][lc]                               | [![lc-ci-badge]][lc-ci]                            | [![lc-cov-badge]][lc-cov] |
-| [sdx-lc-client][lc-client]                 |                                                    |                           |
+| [sdx-lc-client][lc-client]                 | [![lc-client-badge]][lc-client-ci]                 |                           |
 | [datamodel][datamodel]                     | [![datamodel-ci-badge]][datamodel-ci]              |                           |
 | [pce][pce]                                 | [![pce-ci-badge]][pce-ci]                          |                           |
 | [kytos-sdx-topology][topology]             |                                                    |                           |
@@ -61,6 +61,8 @@ about AtlanticWave-SDX, are listed in our website, along with some
 
 <!-- sdx-lc-client URLs -->
 [lc-client]: https://github.com/atlanticwave-sdx/sdx-lc-client
+[lc-client-badge]: https://github.com/atlanticwave-sdx/sdx-lc-client/actions/workflows/test.yml/badge.svg
+[lc-client-ci]: https://github.com/atlanticwave-sdx/sdx-lc-client/actions/workflows/test.yml
 
 <!-- datamodel URLs -->
 [datamodel]: https://github.com/atlanticwave-sdx/datamodel
