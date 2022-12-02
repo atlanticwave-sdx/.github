@@ -17,8 +17,8 @@ is on these repositories:
 | [sdx-controller-client][controller-client] | [![controller-client-badge]][controller-client-ci] |                             |
 | [sdx-lc][lc]                               | [![lc-ci-badge]][lc-ci]                            | [![lc-cov-badge]][lc-cov]   |
 | [sdx-lc-client][lc-client]                 | [![lc-client-badge]][lc-client-ci]                 |                             |
-| [datamodel][datamodel]                     | [![datamodel-ci-badge]][datamodel-ci]              | [![pce-cov-badge]][pce-cov] |
-| [pce][pce]                                 | [![pce-ci-badge]][pce-ci]                          |                             |
+| [datamodel][datamodel]                     | [![datamodel-ci-badge]][datamodel-ci]              |                             |
+| [pce][pce]                                 | [![pce-ci-badge]][pce-ci]                          | [![pce-cov-badge]][pce-cov] |
 | [kytos-sdx-topology][topology]             |                                                    |                             |
 | [sdx-continuous-development][cd]           |                                                    |                             |
 
