@@ -47,6 +47,9 @@ about AtlanticWave-SDX, are listed in our website, along with some
 [controller-ci-badge]: https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml/badge.svg
 [controller-ci]: https://github.com/atlanticwave-sdx/sdx-controller/actions/workflows/test.yml
 
+[controller-cov-badge]: https://coveralls.io/repos/github/atlanticwave-sdx/sdx-controller/badge.svg?branch=main (Coverage Status)
+[controller-cov]: https://coveralls.io/github/atlanticwave-sdx/sdx-controller?branch=main
+
 <!-- sdx-controller-client URLs -->
 [controller-client]: https://github.com/atlanticwave-sdx/sdx-controller-client
 [controller-client-badge]: https://github.com/atlanticwave-sdx/sdx-controller-client/actions/workflows/test.yml/badge.svg
