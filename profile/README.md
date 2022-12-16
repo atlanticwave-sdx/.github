@@ -16,7 +16,7 @@ is on these repositories:
 | [sdx-controller][controller]               | [![controller-ci-badge]][controller-ci]            | [![controller-cov-badge]][controller-cov]               |
 | [sdx-controller-client][controller-client] | [![controller-client-badge]][controller-client-ci] | [![controller-client-cov-badge]][controller-client-cov] |
 | [sdx-lc][lc]                               | [![lc-ci-badge]][lc-ci]                            | [![lc-cov-badge]][lc-cov]                               |
-| [sdx-lc-client][lc-client]                 | [![lc-client-badge]][lc-client-ci]                 |                                                         |
+| [sdx-lc-client][lc-client]                 | [![lc-client-badge]][lc-client-ci]                 | [![lc-client-cov-badge]][lc-client-cov]                 |
 | [datamodel][datamodel]                     | [![datamodel-ci-badge]][datamodel-ci]              | [![datamodel-cov-badge]][datamodel-cov]                 |
 | [pce][pce]                                 | [![pce-ci-badge]][pce-ci]                          | [![pce-cov-badge]][pce-cov]                             |
 | [kytos-sdx-topology][topology]             |                                                    |                                                         |
@@ -69,6 +69,9 @@ about AtlanticWave-SDX, are listed in our website, along with some
 [lc-client]: https://github.com/atlanticwave-sdx/sdx-lc-client
 [lc-client-badge]: https://github.com/atlanticwave-sdx/sdx-lc-client/actions/workflows/test.yml/badge.svg
 [lc-client-ci]: https://github.com/atlanticwave-sdx/sdx-lc-client/actions/workflows/test.yml
+
+[lc-client-cov-badge]: https://coveralls.io/repos/github/atlanticwave-sdx/sdx-lc-client/badge.svg?branch=main (Coverage Status)
+[lc-client-cov]: https://coveralls.io/github/atlanticwave-sdx/sdx-lc-client?branch=main
 
 <!-- datamodel URLs -->
 [datamodel]: https://github.com/atlanticwave-sdx/datamodel
