@@ -27,8 +27,7 @@ and we're working on it at [sdx-docs][sdx-docs-github] repository.
 
 We welcome and encourage contributions, including issues, discussions,
 and pull requests.  Please be sure to read our [Contributing
-Guidelines](/profile/CONTRIBUTING.md) before starting your
-contributions.
+Guidelines][contributing] for some notes.
 
 ## Some Useful Resources
 
@@ -99,6 +98,7 @@ about AtlanticWave-SDX, are listed in our website, along with some
 <!-- sdx-docs URLs -->
 [sdx-docs-rtd]: https://sdx-docs.readthedocs.io/
 [sdx-docs-github]: https://github.com/atlanticwave-sdx/sdx-docs/
+[contributing]: https://sdx-docs.readthedocs.io/en/latest/contributing.html
 
 <!--
 
