@@ -19,6 +19,9 @@ is on these repositories:
 | [pce][pce]                                 | [![pce-ci-badge]][pce-ci]                          | [![pce-cov-badge]][pce-cov]                             |
 | [kytos-sdx-topology][topology]             |                                                    |                                                         |
 
+Documentation is available at [sdx-docs.readthedocs.io][sdx-docs-rtd],
+and we're working on it at [sdx-docs][sdx-docs-github] repository.
+
 
 ## Contribution Guidelines
 
@@ -93,6 +96,9 @@ about AtlanticWave-SDX, are listed in our website, along with some
 <!-- sdx-continuous-development URLs -->
 [cd]: https://github.com/atlanticwave-sdx/sdx-continuous-development
 
+<!-- sdx-docs URLs -->
+[sdx-docs-rtd]: https://sdx-docs.readthedocs.io/
+[sdx-docs-github]: https://github.com/atlanticwave-sdx/sdx-docs/
 
 <!--
 
