@@ -11,13 +11,13 @@ and interoperability testing, on national and international scales.
 AtlanticWave-SDX is composed of several components. The current focus
 is on these repositories:
 
-| Repository                                 | CI status                                          | Test coverage                                           |
-|--------------------------------------------|----------------------------------------------------|---------------------------------------------------------|
-| [sdx-controller][controller]               | [![controller-ci-badge]][controller-ci]            | [![controller-cov-badge]][controller-cov]               |
-| [sdx-lc][lc]                               | [![lc-ci-badge]][lc-ci]                            | [![lc-cov-badge]][lc-cov]                               |
-| [datamodel][datamodel]                     | [![datamodel-ci-badge]][datamodel-ci]              | [![datamodel-cov-badge]][datamodel-cov]                 |
-| [pce][pce]                                 | [![pce-ci-badge]][pce-ci]                          | [![pce-cov-badge]][pce-cov]                             |
-| [kytos-sdx-topology][topology]             |                                                    |                                                         |
+| Repository                     | CI status                               | Test coverage                             |
+|--------------------------------|-----------------------------------------|-------------------------------------------|
+| [sdx-controller][controller]   | [![controller-ci-badge]][controller-ci] | [![controller-cov-badge]][controller-cov] |
+| [sdx-lc][lc]                   | [![lc-ci-badge]][lc-ci]                 | [![lc-cov-badge]][lc-cov]                 |
+| [datamodel][datamodel]         | [![datamodel-ci-badge]][datamodel-ci]   | [![datamodel-cov-badge]][datamodel-cov]   |
+| [pce][pce]                     | [![pce-ci-badge]][pce-ci]               | [![pce-cov-badge]][pce-cov]               |
+| [kytos-sdx-topology][topology] |                                         |                                           |
 
 Documentation is available at [sdx-docs.readthedocs.io][sdx-docs-rtd],
 and we're working on it at [sdx-docs][sdx-docs-github] repository.
