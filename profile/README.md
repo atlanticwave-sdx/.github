@@ -27,7 +27,7 @@ and we're working on it at [sdx-docs][sdx-docs-github] repository.
 
 We welcome and encourage contributions, including issues, discussions,
 and pull requests.  Please be sure to read our [Contributing
-Guidelines][contributing] for some notes.
+Guidelines][contributing] beforehand.
 
 ## Some Useful Resources
 
