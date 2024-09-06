@@ -17,7 +17,7 @@ is on these repositories:
 | [sdx-lc][lc]                   | [![lc-ci-badge]][lc-ci]                 | [![lc-cov-badge]][lc-cov]                 |
 | [datamodel][datamodel]         | [![datamodel-ci-badge]][datamodel-ci]   | [![datamodel-cov-badge]][datamodel-cov]   |
 | [pce][pce]                     | [![pce-ci-badge]][pce-ci]               | [![pce-cov-badge]][pce-cov]               |
-| [kytos-sdx-topology][topology] |                                         |                                           |
+| [kytos-sdx][topology]          |                                         |                                           |
 
 Documentation is available at [sdx-docs.readthedocs.io][sdx-docs-rtd],
 and we're working on it at [sdx-docs][sdx-docs-github] repository.
