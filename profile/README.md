@@ -17,7 +17,7 @@ is on these repositories:
 | [sdx-lc][lc]                       | [![lc-ci-badge]][lc-ci]                  | [![lc-cov-badge]][lc-cov]                 |
 | [datamodel][datamodel]             | [![datamodel-ci-badge]][datamodel-ci]    | [![datamodel-cov-badge]][datamodel-cov]   |
 | [pce][pce]                         | [![pce-ci-badge]][pce-ci]                | [![pce-cov-badge]][pce-cov]               |
-| [kytos-sdx][topology]              |                                          |                                           |
+| [kytos-sdx][topology]              | [![topology-ci-badge]][topology-ci]      | [![topology-cov-badge]][topology-cov]     |
 | [sdx-oxp-integrator][integrator]   | [![integrator-ci-badge]][integrator-ci]  | [![integrator-cov-badge]][integrator-cov] |
 
 Documentation is available at [sdx-docs.readthedocs.io][sdx-docs-rtd],
@@ -92,6 +92,11 @@ about AtlanticWave-SDX, are listed in our website, along with some
 
 <!-- kytos-sdx-topology URs -->
 [topology]: https://github.com/atlanticwave-sdx/kytos-sdx-topology
+[topology-ci-badge]: https://github.com/atlanticwave-sdx/kytos-sdx/actions/workflows/test.yml/badge.svg
+[topology-ci]: https://github.com/atlanticwave-sdx/kytos-sdx/actions/workflows/test.yml
+
+[topology-cov-badge]: https://coveralls.io/repos/github/atlanticwave-sdx/kytos-sdx/badge.svg?branch=main
+[topology-cov]: https://coveralls.io/github/atlanticwave-sdx/kytos-sdx?branch=main
 
 <!-- integrator URLs -->
 [integrator]: https://github.com/atlanticwave-sdx/sdx-oxp-integrator
