@@ -18,7 +18,6 @@ is on these repositories:
 | [datamodel][datamodel]             | [![datamodel-ci-badge]][datamodel-ci]    | [![datamodel-cov-badge]][datamodel-cov]   |
 | [pce][pce]                         | [![pce-ci-badge]][pce-ci]                | [![pce-cov-badge]][pce-cov]               |
 | [kytos-sdx][topology]              | [![topology-ci-badge]][topology-ci]      | [![topology-cov-badge]][topology-cov]     |
-| [sdx-oxp-integrator][integrator]   | [![integrator-ci-badge]][integrator-ci]  | [![integrator-cov-badge]][integrator-cov] |
 
 Documentation is available at [sdx-docs.readthedocs.io][sdx-docs-rtd],
 and we're working on it at [sdx-docs][sdx-docs-github] repository.
@@ -97,14 +96,6 @@ about AtlanticWave-SDX, are listed in our website, along with some
 
 [topology-cov-badge]: https://coveralls.io/repos/github/atlanticwave-sdx/kytos-sdx/badge.svg?branch=main
 [topology-cov]: https://coveralls.io/github/atlanticwave-sdx/kytos-sdx?branch=main
-
-<!-- integrator URLs -->
-[integrator]: https://github.com/atlanticwave-sdx/sdx-oxp-integrator
-[integrator-ci-badge]: https://github.com/atlanticwave-sdx/sdx-oxp-integrator/actions/workflows/test.yml/badge.svg
-[integrator-ci]: https://github.com/atlanticwave-sdx/sdx-oxp-integrator/actions/workflows/test.yml
-
-[integrator-cov-badge]: https://coveralls.io/repos/github/atlanticwave-sdx/sdx-oxp-integrator/badge.svg?branch=main (Coverage Status)
-[integrator-cov]: https://coveralls.io/github/atlanticwave-sdx/sdx-oxp-integrator?branch=main
 
 <!-- sdx-continuous-development URLs -->
 [cd]: https://github.com/atlanticwave-sdx/sdx-continuous-development
